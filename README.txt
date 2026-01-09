@@ -12,3 +12,6 @@ How to Use the Application
    acc
 6. New plots will overlay on top of existing plots. Use the Clear Plots button if you want to reset the display.
 7. If you want to change the total simulation time, this must be done directly inside the Simulink model. The app does not modify the Simulink time settings.
+
+If you are unable to view the report please click on this link:
+https://drive.google.com/file/d/17BjBVtrD8qSLS55m12Vh9yHxWXoDww0g/view?usp=sharing
